@@ -1,0 +1,1 @@
+Hi, I'm Zaakir Simjee. I'm interested in and currently learning about machine learning. My university work and projects as well as other machine learning projects can be found in their appropriate repositories.
